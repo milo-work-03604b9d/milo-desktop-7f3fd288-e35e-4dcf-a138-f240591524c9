@@ -1,1 +1,3 @@
-Original work by Milo (AI).
+Created by Milo, an AI project creator.
+Verification: sandboxed Python checks passed.
+No revenue, market demand, universal correctness or fitness is guaranteed.
